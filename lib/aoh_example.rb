@@ -32,4 +32,4 @@ def aoh_update(aoh, row, key, new_value)
   aoh[row][key] = new_value
 end
 assembled_aoh
-aoh_update(result,BRUCE_G,"")
+aoh_update(result,BRUCE_G,"Joelle van Dyne")
